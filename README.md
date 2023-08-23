@@ -1,5 +1,5 @@
 # meta-github-organisation
-# Meta Repository for the On-Going Organisation Project of `zaksadiq`'s Github Repositories.
+# Meta Repository for the on-going Organisation Project of `zaksadiq`'s Github Repositories.
 This is a 'meta' repository hosting Project Management Organisation towards the clear and structured organisation of `zaksadiq`'s repositories on Github.
 ## Deliverables
 Let us measure progress as a function of how close we are to the intended output and objectives.
@@ -21,9 +21,13 @@ We would like to see:
 5. 'Your Move.' Software Engineering Project with Backend, Web Client, and Cross-Platform Mobile App.
 6. 'Grimsby, Cleaned.' Mobile-App Prototype Concept.
 7. Data Visualisation Work - More than one Repository. 
-8. ... Please add.
+8. Pointsix.xyz Custom WordPress Lifestyle Magazine.
+9. Shipping Label Excel Macro.
+10. Greasemonkey Browser automation.
+11. C# Grapher app.
+12. ... Please add.
 ### WorkStream 2: Cleaning up of Projects on Github
-This will involve 
+This will involve cleaning and tightening up of code, as well as 'polishing' features such as READMEs and Multi-Media demonstration, (Images, Videos, &c...), to show-case the value of each project.  
 #### Projects to Cleanup
 1. 'NTOrgan' - New Tab Organiser ; Code Cleanup + Screenshots, GIFs, and README.
 2. ... Please add.
